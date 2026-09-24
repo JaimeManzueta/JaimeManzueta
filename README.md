@@ -1,6 +1,6 @@
 # Jaime Manzueta👨‍💻
 
-**Student(Temple University)**
+**Student (Temple University)**
 \
 I am currently a Senior who is a dedicated Computer Science major at Temple University with a keen interest in specializing in Data Engineering. Im committed to gaining a deep understanding of computer systems, algorithms, and programming languages.
 
